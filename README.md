@@ -1,2 +1,4 @@
-# -SDT26-GP7
-Robot Development Project
+## Navigation Feature
+- Implementing line following algorithm
+- Testing robot navigation on track
+- Calibrating colour sensor for navigation
