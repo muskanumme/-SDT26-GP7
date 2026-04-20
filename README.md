@@ -1,3 +1,7 @@
+## Navigation Feature
+- Implementing line following algorithm
+- Testing robot navigation on track
+- Calibrating colour sensor for navigation
 ## Development Notes
 - Working on robot base development
 - Sensors integration in progress
