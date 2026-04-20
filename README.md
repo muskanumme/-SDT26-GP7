@@ -1,2 +1,4 @@
-# -SDT26-GP7
-Robot Development Project
+## Development Notes
+- Working on robot base development
+- Sensors integration in progress
+- Navigation system being tested
